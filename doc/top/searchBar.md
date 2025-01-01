@@ -6,6 +6,7 @@
   - 名前で絞り込み可能
   - メールアドレスで絞り込み可能
   - ユーザIDで絞り込み可能
+  - 年齢で絞り込み可能
 
 ## @implementation
 function displaySearchBar() {
