@@ -2,7 +2,7 @@
 サイトのトップ画面についての説明を記述します。
 
 # @primaryContract
-:::@implement
+:::@implementation
 - トップページを表示: @displayTop
 - 検索バーを表示する: @searchBar
 - カテゴリリストを表示する: @categoryList
