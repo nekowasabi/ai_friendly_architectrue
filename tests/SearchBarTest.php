@@ -1,6 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
+require_once 'searchBar.php';
 
 class SearchBarTest extends TestCase
 {
